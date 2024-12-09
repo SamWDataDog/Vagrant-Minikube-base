@@ -1,0 +1,21 @@
+# Ignore the .vagrant directory
+.vagrant/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by editors
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any box files if you're storing them locally
+*.box
+
+# Ignore SSH key files
+*.pem
+*.key
+
+# Ignore other sensitive files (add any specific files you want to exclude)
